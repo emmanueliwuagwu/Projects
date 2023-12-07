@@ -4,80 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc36e5c8-4870-4623-a4e4-2ff879c14ee0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ant-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ant-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-astbuilder-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-astbuilder-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-cli-commons-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-cli-commons-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-cli-picocli-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-cli-picocli-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-console-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-console-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-contracts-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-contracts-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-datetime-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-datetime-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-dateutil-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-dateutil-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-docgenerator-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-docgenerator-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ginq-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ginq-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovydoc-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovydoc-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovysh-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovysh-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-jmx-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-jmx-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-json-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-json-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-jsr223-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-jsr223-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-macro-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-macro-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-macro-library-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-macro-library-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-nio-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-nio-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-servlet-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-servlet-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-sql-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-sql-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-swing-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-swing-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-templates-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-templates-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-test-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-test-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-test-junit5-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-test-junit5-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-testng-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-testng-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-toml-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-toml-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-typecheckers-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-typecheckers-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-xml-4.0.14-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-xml-4.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TacDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TicTacToe.java" afterDir="false" />
+    <list default="true" id="bc36e5c8-4870-4623-a4e4-2ff879c14ee0" name="Changes" comment="TicTacToe">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1701462607605</updated>
     </task>
+    <task id="LOCAL-00001" summary="TicTacToe">
+      <option name="closed" value="true" />
+      <created>1701843826344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701843826344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TicTacToe" />
+    <option name="LAST_COMMIT_MESSAGE" value="TicTacToe" />
   </component>
 </project>
